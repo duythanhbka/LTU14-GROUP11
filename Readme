@@ -6,7 +6,5 @@ Quản lý file sử dụng RMI và Docker
 -	Kết nối đến server cần có mật khẩu
 Quy trình hoạt động:
 -	Client mở giao diện duyệt file
--	Yêu cầu tài khoản và mật khẩu để kết nối đến server
--	Đăng nhập thành công giao diện làm việc hiện ra
 -	Người dùng có thể thêm sửa, xóa, chỉnh sửa nội dung trên remote server
 
