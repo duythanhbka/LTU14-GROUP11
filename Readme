@@ -5,6 +5,7 @@ Quản lý file sử dụng RMI và Docker
 -	Xây giao diện trên web giống với một trình duyệt file
 -	Kết nối đến server cần có mật khẩu
 Quy trình hoạt động:
+- chạy sever
 -	Client mở giao diện duyệt file
 -	Người dùng có thể thêm sửa, xóa, chỉnh sửa nội dung trên remote server
 
